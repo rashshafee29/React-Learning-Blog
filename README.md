@@ -1,6 +1,10 @@
+## Credit
+
+Followed this channel of **The Net Ninja**: https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+
 ## Available Scripts
 
-In the project directory, To build the project run below both commands in different Terminal:
+In the project directory to build the project run below both commands in different Terminal:
 
 ### `npm start`
 
@@ -15,6 +19,9 @@ You may also see any lint errors in the console.
 Runs the server to watch data/db.json file on port 8000 to request GET, POST, DELETE operations
 
 GET: http://localhost:8000/blogs - Getting all data
+
 GET: http://localhost:8000/blogs/:id - Getting a single data
+
 POST: http://localhost:8000/blogs - Posting a single data
+
 DELETE: http://localhost:8000/blogs/:id - Deleting a single data
